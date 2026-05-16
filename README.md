@@ -1,6 +1,39 @@
 
 # Bilgi Yarışması Athena : Mobil Uygulama
 
+<img width="377" height="778" alt="Ekran görüntüsü 2026-05-16 233741" src="https://github.com/user-attachments/assets/8408e666-8d67-4d58-b1bb-52a1a34d7383" />
+
+
+<img width="377" height="796" alt="Ekran görüntüsü 2026-05-16 233752" src="https://github.com/user-attachments/assets/0afc2d99-1586-4df9-9392-6009298ba60c" />
+
+
+<img width="371" height="852" alt="Ekran görüntüsü 2026-05-16 233830" src="https://github.com/user-attachments/assets/209f0b98-3516-43e1-ad88-fd92eda09db0" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Bu proje, Flutter ile geliştirilmiş çok kategorili bir bilgi yarışması mobil uygulamasıdır.
 Kullanıcılar farklı konu başlıklarında kolay, orta ve zor seviyelerde sorular çözerek bilgilerini test edebilir.
@@ -53,8 +86,5 @@ Genel kültürden tarihe, spordan dine kadar birçok kategoride hazırlanan soru
 
 Sorular kullanıcının seçeceği kategori ve zorluk ,süre seviyelerine göre düzenlenmiştir.
 Karışık modda uygulama kullancının seçtiği farklı kategorilerden sorular getirerek daha çeşitli bir quiz deneyimi sunar.
-<img width="277" height="678" alt="Ekran görüntüsü 2026-05-16 233741" src="https://github.com/user-attachments/assets/3a0f289a-28ba-4036-8505-df56b7133d7b" />
-<img width="277" height="678" alt="Ekran görüntüsü 2026-05-16 233752" src="https://github.com/user-attachments/assets/ed87d524-0bd9-456e-a907-ce26e58eef07" />
-<img width="277" height="678" alt="Ekran görüntüsü 2026-05-16 233830" src="https://github.com/user-attachments/assets/85d3a790-2ffe-4fcb-97a5-5439d6e5a689" />
 
 
