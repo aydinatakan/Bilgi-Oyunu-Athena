@@ -1,6 +1,6 @@
 
 # Bilgi Yarışması Athena : Mobil Uygulama
-#Uygulama apksı: 
+
 
 
 
