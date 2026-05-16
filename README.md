@@ -53,6 +53,8 @@ Genel kültürden tarihe, spordan dine kadar birçok kategoride hazırlanan soru
 
 Sorular kullanıcının seçeceği kategori ve zorluk ,süre seviyelerine göre düzenlenmiştir.
 Karışık modda uygulama kullancının seçtiği farklı kategorilerden sorular getirerek daha çeşitli bir quiz deneyimi sunar.
-<img width="371" height="852" alt="Ekran görüntüsü 2026-05-16 233830" src="https://github.com/user-attachments/assets/85d3a790-2ffe-4fcb-97a5-5439d6e5a689" />
-<img width="377" height="796" alt="Ekran görüntüsü 2026-05-16 233752" src="https://github.com/user-attachments/assets/ed87d524-0bd9-456e-a907-ce26e58eef07" />
-<img width="377" height="778" alt="Ekran görüntüsü 2026-05-16 233741" src="https://github.com/user-attachments/assets/3a0f289a-28ba-4036-8505-df56b7133d7b" />
+<img width="277" height="678" alt="Ekran görüntüsü 2026-05-16 233741" src="https://github.com/user-attachments/assets/3a0f289a-28ba-4036-8505-df56b7133d7b" />
+<img width="277" height="678" alt="Ekran görüntüsü 2026-05-16 233752" src="https://github.com/user-attachments/assets/ed87d524-0bd9-456e-a907-ce26e58eef07" />
+<img width="277" height="678" alt="Ekran görüntüsü 2026-05-16 233830" src="https://github.com/user-attachments/assets/85d3a790-2ffe-4fcb-97a5-5439d6e5a689" />
+
+
