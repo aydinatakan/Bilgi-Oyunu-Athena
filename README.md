@@ -1,5 +1,8 @@
 
 # Bilgi Yarışması Athena : Mobil Uygulama
+#Uygulama apksı: 
+
+
 
 <img width="377" height="778" alt="Ekran görüntüsü 2026-05-16 233741" src="https://github.com/user-attachments/assets/8408e666-8d67-4d58-b1bb-52a1a34d7383" />
 
